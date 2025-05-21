@@ -1,4 +1,4 @@
-# 100 days of DevOps
+# 🎯 100 days of DevOps
 
 ## 🎓 Goals
 
