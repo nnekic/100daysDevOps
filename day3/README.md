@@ -1,4 +1,4 @@
-# 🎯 Day 3 - Introduction to CloudTrail asics
+# 🎯 Day 3 - Introduction to CloudTrail basics
 
 ## 🎓 Objective
 
