@@ -1,10 +1,10 @@
-# Day 1 - AWS CloudWatch Basics
+# 🎯 Day 1 - AWS CloudWatch Basics
 
-## Objective
+## 🎓 Objective
 
 Get familiar with AWS CloudWatch by setting up a CPU utilization alarm on an EC2 instance and receiving email notifications via SNS.
 
-## Steps
+## 🛠️ Steps
 
 1. Launched an EC2 instance
 2. Created default VPC and security group to allow port 22 (SSH)

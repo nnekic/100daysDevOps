@@ -1,10 +1,10 @@
-# Day 2 - SNS (Simple Notifications Service) Basics
+# 🎯 Day 2 - SNS (Simple Notifications Service) Basics
 
-## Objective
+## 🎓 Objective
 
 Get familiar with AWS SNS by setting up an email notification.
 
-## Steps
+## 🛠️ Steps
 
 1. Created SNS topic called MyTopic
 2. Added subsriber and confirmed subscription
