@@ -9,6 +9,8 @@ To learn and apply DevOps tools and concepts through day-by-day challenges follo
 - AWS SNS (Simple Notification System)
 - AWS CloudWatch
 - AWS CloudTrail
+- AWS Lambda
+- Slack
 
 ## 🔗 Credits
 
