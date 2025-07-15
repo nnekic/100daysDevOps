@@ -11,6 +11,7 @@ To learn and apply DevOps tools and concepts through day-by-day challenges follo
 - AWS CloudTrail
 - AWS Lambda
 - AWS S3
+- AWS EBS
 - Slack
 
 ## 🔗 Credits
